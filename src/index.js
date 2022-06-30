@@ -9,4 +9,4 @@ document.getElementById("app").innerHTML = `
 </div>
 `;
 
-console.log('hello world');
+console.log('hello world atomo school');
